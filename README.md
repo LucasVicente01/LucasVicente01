@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasVicente01
+- 👋 Hi, I’m @LucasVicente01 an biomedical scientist
 - 👀 I’m interested in science and bioinformatics
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on bioinformatics
